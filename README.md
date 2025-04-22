@@ -70,10 +70,10 @@ CREATE USER RASHMI
 
 #### 🔹 Part 3: Sharing the Streamlit App
 
-1. **Granted **``** Role to **``**:**
+1. **Granted Role to New User **:**
 
 ```sql
-GRANT ROLE ACCOUNTADMIN TO USER RASHMI;
+GRANT ROLE ACCOUNTADMIN TO USER John;
 ```
 
 2. **Shared the Streamlit App** by generating a public URL
@@ -96,5 +96,7 @@ GRANT ROLE ACCOUNTADMIN TO USER RASHMI;
 - Leveraged Snowflake’s integrated data science features
 - Gained experience in Snowpark-based data processing
 - Understood secure app sharing and role-based access control
+
+### Screenshots 
 
 
