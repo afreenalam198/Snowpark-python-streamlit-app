@@ -97,6 +97,12 @@ GRANT ROLE ACCOUNTADMIN TO USER John;
 - Gained experience in Snowpark-based data processing
 - Understood secure app sharing and role-based access control
 
-### Screenshots 
+## 📸 Screenshots
+
+### Stock Price Performance Dashboard
+![Stock Price](screenshots/stock-price.png)
+
+### FX Rates Dashboard
+![FX Rates Screenshot](screenshots/fx-rates.png)
 
 
